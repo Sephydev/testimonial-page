@@ -53,6 +53,10 @@ li {
     border-radius: 1rem;
 }
 
+.commentary p {
+    margin: 0.5rem 0;
+}
+
 .flex {
     display: flex;
     align-items: center;
