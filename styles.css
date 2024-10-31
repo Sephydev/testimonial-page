@@ -51,17 +51,19 @@ li {
     background-color: #FFFFFF;
     padding: 2rem 3rem;
     border-radius: 1rem;
-    max-width: 75%;
+    max-width: 65%;
 }
 
 .commentary p {
-    margin: 0.5rem 0;
+    font-size: 1rem;
+    margin: 0.25rem 0;
 }
 
 .flex {
     display: flex;
     align-items: center;
     gap: 0.25rem;
+    margin-bottom: 1rem;
 }
 
 .testimonial {
