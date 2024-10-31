@@ -37,3 +37,8 @@ ul {
     color: #52525A;
     list-style: none;
 }
+
+li {
+    display: flex;
+    align-items: center;
+}
