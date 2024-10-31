@@ -31,3 +31,7 @@ p {
     color: #52525A;
     line-height: 2rem;
 }
+
+ul {
+    list-style: none;
+}
