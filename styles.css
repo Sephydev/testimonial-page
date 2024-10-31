@@ -36,6 +36,7 @@ ul {
     font-size: 0.875rem;
     color: #52525A;
     list-style: none;
+    padding: 0;
 }
 
 li {
