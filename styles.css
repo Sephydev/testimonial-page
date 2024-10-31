@@ -10,6 +10,9 @@ body {
     background-color: #FAFAF9;
 }
 
+main {
+    padding: 5rem 1.5rem;
+}
 span {
     background-color: #F5C044;
     font-size: 1.25rem;
