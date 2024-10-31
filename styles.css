@@ -47,6 +47,10 @@ li {
     margin-top: 1rem;
 }
 
+.commentary {
+    background-color: #FFFFFF; 
+}
+
 .flex {
     display: flex;
     align-items: center;
