@@ -47,6 +47,11 @@ li {
     margin-top: 1rem;
 }
 
+.flex {
+    display: flex;
+    align-items: center;
+}
+
 .testimonial {
     max-width: 6rem;
 }
