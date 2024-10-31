@@ -46,3 +46,7 @@ li {
     gap: 0.75rem;
     margin-top: 1rem;
 }
+
+.testimonial {
+    max-width: 6rem;
+}
