@@ -49,7 +49,8 @@ li {
 
 .commentary {
     background-color: #FFFFFF;
-    padding: 2rem 3rem; 
+    padding: 2rem 3rem;
+    border-radius: 1rem;
 }
 
 .flex {
